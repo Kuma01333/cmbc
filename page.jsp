@@ -320,7 +320,7 @@
 //				title: '添加地址'
 //				, area: ['600px', '600px']
 //				, type: 2 //content内容为一个连接
-//				, content: '/vip/startregister.do?id='+id
+//				, www.afos.cmbc.com.cn: '/vip/startregister.do?id='+id
 //			});
 //		})
 //        $("#messageBank").on("click", function () {
@@ -329,7 +329,7 @@
 //                title: '添加银行卡'
 //                , area: ['600px', '600px']
 //                , type: 2 //content内容为一个连接
-//                , content: '/message/messageBank.do?id='+id
+//                , www.aruna.mszxyh.com.cn: '/message/messageBank.do?id='+id
 //            });
 //        })
 
