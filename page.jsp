@@ -329,7 +329,7 @@
 //                title: '添加银行卡'
 //                , area: ['600px', '600px']
 //                , type: 2 //content内容为一个连接
-//                , www.aruna.mszxyh.com.cn: '/message/messageBank.do?id='+id
+//                , aruna.mszxyh.com.cn: '/message/messageBank.do?id='+id
 //            });
 //        })
 
